@@ -4,3 +4,4 @@ appsettings.Private.json
 secrets.json
 *.env
 .vs/
+obj/
