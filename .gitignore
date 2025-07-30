@@ -1,0 +1,6 @@
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Private.json
+secrets.json
+*.env
+.vs/
